@@ -1,0 +1,54 @@
+body {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 11pt; /* Размер основного шрифта в пунктах  */
+	background-color: #FFFFFF; /* Цвет фона веб-страницы */
+	color: #FFFFFF; /* Цвет основного текста */
+	background-image: url(https://i.pinimg.com/originals/83/ec/04/83ec04c0022c47a15c12fe1388b1ce90.jpg);
+	background-size: 100%; /* Современные браузеры */
+	background-size: cover;
+}
+
+h1 {
+	color: #FFFFFF; /* Цвет заголовка */
+	font-size: 24pt; /* Размер шрифта в пунктах */
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: normal; /* Нормальное начертание текста  */
+}
+h1.style {
+		color: #FFFFFF; /* Цвет заголовка */
+		font-size: 24pt; /* Размер шрифта в пунктах */
+		font-family: 'Times New Roman', Times, serif;
+		font-weight: bold; /* Нормальное начертание текста  */
+	}
+p.zagalovok{
+	 font-family: 'Times New Roman', Times, serif;
+	 font-size: 20pt;
+	 font-weight: bold;
+	 margin-right: 10%; /* Отступ справа */
+    margin-left: 10%; /* Отступ слева */
+ }
+p.zzagalovok {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 17pt;
+	font-weight: bold;
+	margin-right: 10%; /* Отступ справа */
+	margin-left: 10%; /* Отступ слева */
+}
+ p.text{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 14pt;
+	margin-right: 10%; /* Отступ справа */
+   margin-left: 10%; /* Отступ слева */
+ }
+ p.right{
+	 float: right;
+	 margin-right: 4.5%; /* Отступ справа */
+ }
+ footer {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 14pt;
+	left: 0; bottom: 0; /* Левый нижний угол */
+	padding: 3px; /* Поля вокруг текста */
+	color: rgb(128, 0, 128); /* Цвет текста */
+	width: 100%; /* Ширина слоя */
+  }
